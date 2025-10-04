@@ -36,4 +36,12 @@ Use the app buttons to update scores, reset values, or trigger special displays.
 The microcontroller receives commands and updates the P10 panels accordingly.
 
 
+👥 Development Credits
+
+This project was built through collaborative effort and shared technical creativity. I led the software development, including the MIT App Inventor mobile interface, Bluetooth communication, and Arduino logic programming.
+Special thanks to my partner, who played an integral role in assembling the 4 P10 LED display panels, ensuring proper wiring, alignment, and stability for reliable visual output. She also contributed significantly to the project documentation and helped shape the final design concept, offering valuable insights that enhanced both the hardware layout and user experience.
+
+Together, we created a portable, customizable scoreboard system that bridges embedded hardware with intuitive mobile control.
+
+
 ![mpcs](https://github.com/user-attachments/assets/602de8eb-1af2-4280-b260-d5458b83f4f7)
