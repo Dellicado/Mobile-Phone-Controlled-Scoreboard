@@ -34,3 +34,6 @@ Launch the custom app and select your event layout.
 Use the app buttons to update scores, reset values, or trigger special displays.
 
 The microcontroller receives commands and updates the P10 panels accordingly.
+
+
+![mpcs](https://github.com/user-attachments/assets/602de8eb-1af2-4280-b260-d5458b83f4f7)
