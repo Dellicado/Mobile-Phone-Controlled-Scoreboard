@@ -12,6 +12,7 @@ Microcontroller (Arduino Uno) – Handles display logic and Bluetooth data parsi
 
 📲 Mobile App Features
 Built using MIT App Inventor for rapid development and intuitive UI.
+![Screen1](https://github.com/user-attachments/assets/83b9cdcd-a888-413e-b805-d10e1329cf4d)
 
 Fully customizable interface: users can choose which buttons to show based on the event type (e.g., basketball, volleyball, quiz bee).
 
@@ -30,7 +31,6 @@ Customization – Tailor the app interface to match the needs of any event.
 
 ![CustomizeScreenSample](https://github.com/user-attachments/assets/aef3fa70-e11a-4811-b3fb-47154eb497f4)
 
-![CustomizeScreenSample_notifierError](https://github.com/user-attachments/assets/510f24a9-f9d4-444c-8af9-f50f19dbc132)
 
 
 🚀 How It Works
