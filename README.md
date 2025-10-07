@@ -26,6 +26,13 @@ Flexibility – Adaptable to different sports or activities.
 
 Customization – Tailor the app interface to match the needs of any event.
 
+![SelectionScreen](https://github.com/user-attachments/assets/bf624e6c-92e9-4f5c-97d5-c8ad43b13ab0)
+
+![CustomizeScreenSample](https://github.com/user-attachments/assets/aef3fa70-e11a-4811-b3fb-47154eb497f4)
+
+![CustomizeScreenSample_notifierError](https://github.com/user-attachments/assets/510f24a9-f9d4-444c-8af9-f50f19dbc132)
+
+
 🚀 How It Works
 Connect your phone to the scoreboard via Bluetooth.
 
