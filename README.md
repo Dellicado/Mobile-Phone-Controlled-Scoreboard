@@ -14,6 +14,8 @@ A flexible, portable scoreboard system designed for real-time control via mobile
 ## 📲 Mobile App Features
 Built using MIT App Inventor for rapid development and intuitive UI.
 ![Screen1](https://github.com/user-attachments/assets/83b9cdcd-a888-413e-b805-d10e1329cf4d)
+<img width="1366" height="654" alt="ind" src="https://github.com/user-attachments/assets/529718ab-b280-44e7-9a8a-a246fb3f14d7" />
+<img width="1366" height="652" alt="zxc" src="https://github.com/user-attachments/assets/d5fbde6a-aad2-4474-8139-4d4fb00430a4" />
 
 Fully customizable interface: users can choose which buttons to show based on the event type (e.g., basketball, volleyball, quiz bee).
 Real-time control of scores, timers, and labels directly from the phone.
