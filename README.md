@@ -1,4 +1,5 @@
-# Mobile-Phone-Controlled-Scoreboard
+## Mobile-Phone-Controlled-Scoreboard
+
 A Project using MIT App Inventor
 ---
 ## 📱 Mobile Phone Controlled Scoreboard
